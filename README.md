@@ -134,6 +134,7 @@ See code for all available configurations.
 | [Lenovo ThinkPad T14](lenovo/thinkpad/t14)                          | `<nixos-hardware/lenovo/thinkpad/t14>`             |
 | [Lenovo ThinkPad T14s AMD Gen 1](lenovo/thinkpad/t14s/amd/gen1)     | `<nixos-hardware/lenovo/thinkpad/t14s/amd/gen1>`   |
 | [Lenovo ThinkPad T14s](lenovo/thinkpad/t14s)                        | `<nixos-hardware/lenovo/thinkpad/t14s>`            |
+| [Lenovo ThinkPad T15 Gen 1](lenovo/thinkpad/t15/gen1)               | `<nixos-hardware/lenovo/thinkpad/t15/gen1>`        |
 | [Lenovo ThinkPad T410](lenovo/thinkpad/t410)                        | `<nixos-hardware/lenovo/thinkpad/t410>`            |
 | [Lenovo ThinkPad T420](lenovo/thinkpad/t420)                        | `<nixos-hardware/lenovo/thinkpad/t420>`            |
 | [Lenovo ThinkPad T430](lenovo/thinkpad/t430)                        | `<nixos-hardware/lenovo/thinkpad/t430>`            |
@@ -166,8 +167,8 @@ See code for all available configurations.
 | [Lenovo ThinkPad X260](lenovo/thinkpad/x260)                        | `<nixos-hardware/lenovo/thinkpad/x260>`            |
 | [Lenovo ThinkPad X270](lenovo/thinkpad/x270)                        | `<nixos-hardware/lenovo/thinkpad/x270>`            |
 | [Lenovo ThinkPad X280](lenovo/thinkpad/x280)                        | `<nixos-hardware/lenovo/thinkpad/x280>`            |
-| [Lenovo ThinkPad Z Series](lenovo/thinkpad/z)                        | `<nixos-hardware/lenovo/thinkpad/z>`            |
-| [Lenovo ThinkPad Z13](lenovo/thinkpad/z/z13)                        | `<nixos-hardware/lenovo/thinkpad/z/z13>`            |
+| [Lenovo ThinkPad Z Series](lenovo/thinkpad/z)                       | `<nixos-hardware/lenovo/thinkpad/z>`               |
+| [Lenovo ThinkPad Z13](lenovo/thinkpad/z/z13)                        | `<nixos-hardware/lenovo/thinkpad/z/z13>`           |
 | [MSI GS60 2QE](msi/gs60)                                            | `<nixos-hardware/msi/gs60>`                        |
 | [MSI GL62/CX62](msi/gl62)                                           | `<nixos-hardware/msi/gl62>`                        |
 | [Microsoft Surface Pro 3](microsoft/surface-pro/3)                  | `<nixos-hardware/microsoft/surface-pro/3>`         |
