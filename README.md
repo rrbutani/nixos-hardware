@@ -314,6 +314,7 @@ See code for all available configurations.
 | [Lenovo ThinkPad T14s AMD Gen 1](lenovo/thinkpad/t14s/amd/gen1)                   | `<nixos-hardware/lenovo/thinkpad/t14s/amd/gen1>`        | `lenovo-thinkpad-t14s-amd-gen1`        |
 | [Lenovo ThinkPad T14s AMD Gen 4](lenovo/thinkpad/t14s/amd/gen4)                   | `<nixos-hardware/lenovo/thinkpad/t14s/amd/gen4>`        | `lenovo-thinkpad-t14s-amd-gen4`        |
 | [Lenovo ThinkPad T14s](lenovo/thinkpad/t14s)                                      | `<nixos-hardware/lenovo/thinkpad/t14s>`                 | `lenovo-thinkpad-t14s`                 |
+| [Lenovo ThinkPad T15 Gen 1](lenovo/thinkpad/t15/gen1)                             | `<nixos-hardware/lenovo/thinkpad/t15/gen1>`             | `lenovo-thinkpad-t15-gen1`             |
 | [Lenovo ThinkPad T410](lenovo/thinkpad/t410)                                      | `<nixos-hardware/lenovo/thinkpad/t410>`                 | `lenovo-thinkpad-t410`                 |
 | [Lenovo ThinkPad T420](lenovo/thinkpad/t420)                                      | `<nixos-hardware/lenovo/thinkpad/t420>`                 | `lenovo-thinkpad-t420`                 |
 | [Lenovo ThinkPad T430](lenovo/thinkpad/t430)                                      | `<nixos-hardware/lenovo/thinkpad/t430>`                 | `lenovo-thinkpad-t430`                 |
